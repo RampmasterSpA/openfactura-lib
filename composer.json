@@ -1,5 +1,5 @@
 {
-    "name": "rampmaster/openfactura-lib",
+    "name": "rampmaster-spa/openfactura-lib",
     "description": "Libreria de de integración no oficial con openfactura",
     "type": "library",
     "minimum-stability": "dev",

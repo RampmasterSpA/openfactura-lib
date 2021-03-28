@@ -1,0 +1,19 @@
+{
+    "name": "rampmaster/openfactura-lib",
+    "description": "Libreria de de integración no oficial con openfactura",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^6"
+    },
+    "autoload": {
+        "Rampmaster": "/src/"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roberto Moreno",
+            "email": "rmorenp@rampmaster.org"
+        }
+    ]
+}

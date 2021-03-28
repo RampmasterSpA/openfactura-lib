@@ -7,7 +7,9 @@
         "guzzlehttp/guzzle": "^6"
     },
     "autoload": {
-        "Rampmaster": "/src/"
+        "psr-4": {
+            "RampmasterSpA": "/src/"
+        },
     },
     "license": "MIT",
     "authors": [
